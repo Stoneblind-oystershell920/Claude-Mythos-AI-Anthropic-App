@@ -1,6 +1,6 @@
 <div align="center">
  
-<img width="1672" height="940" alt="Claude Mythos App" src="https://github.com/user-attachments/assets/40a59bc5-bc49-4dd2-9d20-6bb874fd12af" />
+<img width="2400" height="1592" alt="image" src="https://github.com/user-attachments/assets/e59e251a-7212-453f-a7b6-a0dc45bf12af" />
 
 # Claude Mythos APP
   <p align="center">
